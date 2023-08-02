@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+FMLCorePluginContainsFMLMod: true
+Implementation-Title: ModularAction
+Implementation-Version: 1.0
+FMLCorePlugin: indi.ma.LoadingPlugin
+
